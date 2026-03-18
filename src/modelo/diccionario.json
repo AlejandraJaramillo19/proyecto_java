@@ -1,0 +1,161 @@
+
+{
+  "animales": [
+    {
+      "espanol": "Perro",
+      "tikuna": "Airu",
+      "tipo": "doméstico",
+      "imagen": "imagen/perro.jpg",
+      "audio_en": "Audios/perro.mp3"
+    },
+    {
+      "espanol": "Loro",
+      "tikuna": "Weru",
+      "tipo": "doméstico",
+      "imagen": "imagen/loro.jpg",
+      "audio_en": "Audios/loro.mp3"
+    },
+    {
+      "espanol": "Danta",
+      "tikuna": "Weru",
+      "tipo": "doméstico",
+      "imagen": "imagen/danta.jpg",
+      "audio_en": "Audios/danta.mp3"
+    },
+    {
+      "espanol": "Venao",
+      "tikuna": "Weru",
+      "tipo": "doméstico",
+      "imagen": "imagen/venao.jpg",
+      "audio_en": "Audios/venao.mp3"
+    },
+    {
+      "espanol": "Cerillo",
+      "tikuna": "Weru",
+      "tipo": "doméstico",
+      "imagen": "imagen/cerillo.jpg",
+      "audio_en": "Audios/venao.mp3"
+    },
+    {
+      "espanol": "Wangana",
+      "tikuna": "Weru",
+      "tipo": "doméstico",
+      "imagen": "imagen/wangana.jpg",
+      "audio_en": "Audios/wangana.mp3"
+    },
+    {
+      "espanol": "Boruga",
+      "tikuna": "Weru",
+      "tipo": "doméstico",
+      "imagen": "imagen/boruga.jpg",
+      "audio_en": "Audios/boruga.mp3"
+    },
+    {
+      "espanol": "Tigre",
+      "tikuna": "Weru",
+      "tipo": "doméstico",
+      "imagen": "imagen/tigre.jpg",
+      "audio_en": "Audios/tigre.mp3"
+    },
+    {"espanol": "Picaflor",
+      "tikuna": "Muri",
+      "tipo": "doméstico",
+      "imagen": "imagen/picaflor.jpg",
+      "audio_en": "Audios/picaflor.mp3"
+    },
+    {"espanol": "Paujil",
+      "tikuna": "Paiyu",
+      "tipo": "doméstico",
+      "imagen": "imagen/paujil.jpg",
+      "audio_en": "Audios/paujil.mp3"
+    },
+    {"espanol": "Panguana",
+      "tikuna": "Nguga",
+      "tipo": "doméstico",
+      "imagen": "imagen/panguana.jpg",
+      "audio_en": "Audios/panguana .mp3"
+    },
+    {"espanol": "Guacamayo",
+      "tikuna": "Ngou",
+      "tipo": "doméstico",
+      "imagen": "imagen/guacamayo.jpg",
+      "audio_en": "Audios/guacamayo .mp3"
+    },
+    {"espanol": "Garza",
+      "tikuna": "Kowa",
+      "tipo": "doméstico",
+      "imagen": "imagen/garza.jpg",
+      "audio_en": "Audios/garza .mp3"
+    },
+    {"espanol": "Arrendajo",
+      "tikuna": "Kaure",
+      "tipo": "doméstico",
+      "imagen": "imagen/arrendajo.jpg",
+      "audio_en": "Audios/arrendajo.mp3"
+    },
+    {"espanol": "Tucan",
+      "tikuna": "Nguruku",
+      "tipo": "doméstico",
+      "imagen": "imagen/tucan.jpg",
+      "audio_en": "Audios/tucan.mp3"
+    },
+    
+    {"espanol": "Hormiga",
+      "tikuna": "Tachiwa",
+      "tipo": "doméstico",
+      "imagen": "imagen/hormiga.jpg",
+      "audio_es": "audios/gato.wav",
+      "audio_en": "audios/cat.wav"
+    },
+    {"espanol": "Gallina",
+      "tikuna": "Ota",
+      "tipo": "doméstico",
+      "imagen": "imagen/gallina.jpg",
+      "audio_en": "Audios/gallina.mp3"
+    
+    }
+],
+
+"animales_acuaticos": [
+   
+    {
+      "tikuna": "Torí",
+      "espanol": "Taricaya",
+      "imagen": "imagen/taricaya.jpg",
+      "audio_tikuna": "audios_animales_acuaticos/tori_tikuna.wav",
+      "audio_en": "audios_animales_acuaticos/tori_es.wav"
+    },
+    {
+      "tikuna": "Ngiri",
+      "espanol": "Caiman de cabeza roja",
+      "imagen": "imagen/caiman cabeza roja.jpg",
+      "audio_tikuna": "audios_animales_acuaticos/ngiri_tikuna.wav",
+      "audio_en": "audios_animales_acuaticos/ngiri_es.wav"
+    },
+   
+    {
+      "tikuna": "Kóya",
+      "espanol": "Caiman negro",
+      "imagen": "imagen/caiman negro.jpg",
+      "audio_tikuna": "audios_animales_acuaticos/koya_tikuna.wav",
+      "audio_en": "audios_animales_acuaticos/koya_es.wav"
+    },
+    {
+      "tikuna": "Omacha",
+      "espanol": "Bufeo o delfin rosado",
+      "imagen": "imagen/Bufeo.jpg",
+      "audio_tikuna": "audios_animales_acuaticos/omacha_tikuna.wav",
+      "audio_en": "audios_animales_acuaticos/omacha_es.wav"
+    },
+   
+    {"espanol": "Pescado",
+      "tikuna": "Choni",
+      "tipo": "doméstico",
+      "imagen": "imagen/pirarucu.jpg",
+      "audio_es": "audios/gato.wav",
+      "audio_en": "audios/cat.wav"
+    
+    }
+    
+]}
+

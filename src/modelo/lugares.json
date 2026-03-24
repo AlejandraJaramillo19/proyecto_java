@@ -1,0 +1,28 @@
+[
+ {
+  "nombre": "Parque Santander",
+  "ubicación": "https:\/\/maps.app.goo.gl\/BKc2G27GiRV75bSt7",
+  "pais": "colombia",
+  "direccion": "Carrera 10 8 -23",
+  "tel": 31233232323,
+  "informacion": "Su principal atractivo es estar rodeado de vegetación endémica de la amazonia, lo que convierte al parque en una reserva de aves brotogeris.",
+   "Imagen": "imagenes/Parque Santander .webp"
+},
+ {
+  "nombre": "Kilometro 8 - Balneario arbelaez",
+  "ubicación": "https:\/\/maps.app.goo.gl\/WuhuvVaEWEZ6MQ1h7",
+  "pais": "colombia",
+  "direccion": "kilometro 8",
+  "tel": 0,
+  "informacion": "Bañadero en los kilometros conectado con el rio takana que va hacia el rio yahuarcaca.",
+  "Imagen": "imagenes/kilometro 8 balneario-arbelaez.jpg"
+ },
+ {
+  "nombre": "kilometro 11 - Takana",
+  "ubicación": "https:\/\/maps.app.goo.gl\/iFQyhqUaWRQt2bx67",
+  "pais": "colombia",
+  "direccion": "kilometro 11",
+  "tel": 0,
+  "informacion": "Bañadero en los kilometros con agua fria y actividades como cayas, pescas entro otros.",
+  "Imagen": "imagenes/cerca viva.jpg"
+ }]

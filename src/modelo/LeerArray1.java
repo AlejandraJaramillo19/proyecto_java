@@ -11,17 +11,13 @@ import java.util.Set;
 
 
 
-public class LeerArrayPalabras {
+public class LeerArray1 {
 
 
 
     public static void main(String[] args) {
         
-        Object dato = 10;
-        String texto = (String) dato;
-        System.out.println(texto);
 
-        
         try (BufferedReader br = new BufferedReader(new FileReader("src\\modelo\\diccionario.json"))) { 
             
             JSONParser parser = new JSONParser();
@@ -37,6 +33,8 @@ public class LeerArrayPalabras {
             // Recorremos todas las categorías (llaves) del JSON
             Set<String> categorias = jsonPrincipal.keySet();
 
+            System.out.println(categorias);
+
             for (String categoria : categorias) {
                 // Paso 1: obtener el valor de la categoría (como Object)
                 Object valor = jsonPrincipal.get(categoria);
@@ -45,7 +43,7 @@ public class LeerArrayPalabras {
                 JSONArray array = (JSONArray) valor;
                 
                 for (Object obj : array) {
-                    JSONObject j = (JSONObject) obj;
+                    JSONObject j = (JSONObject) obj; // cada objeto que hay en el array es un json
                     String espanol = (String) j.get("espanol");
                     String tikuna = (String) j.get("tikuna");
                     String imagen = (String) j.get("imagen");
@@ -58,19 +56,12 @@ public class LeerArrayPalabras {
                 }
             }
 
-            // Imprimimos todas las palabras
-            for (Palabra p : palabras) {
-                System.out.println(p.espanol + " - " + p.tikuna + " - " + p.imagen + " - " + p.audio_en + " - " + p.categoria);
-            }
+            System.out.println(palabras);
+
+          
 
         } catch (Exception e) {
             e.printStackTrace();
-
- 
-
         }
     }
 }
-
-
-
